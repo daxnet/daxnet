@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I used to be a Microsoft Most Valuable Professional (MVP) from the year 2012 to 2019, mostly focused on Development Technologies. Now I am currently working for PerkinElmer Informatics R&D as a Principal Software Engineer.
+
+I am a fan of Microsoft development technologies, specifically, .NET (C#). I am also interested in software architecture, OOAD, DDD, big data, AI and agile development methodologies.
+
